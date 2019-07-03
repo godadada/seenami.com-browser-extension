@@ -1,0 +1,12 @@
+{
+  "name": "seenami",
+  "version": "1.0.1",
+  "description": "Browser Extension for seenami.com",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
