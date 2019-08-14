@@ -2,8 +2,8 @@
 
 Browser Extension for seenami.com
 ## youtube
-
-	https://www.youtube.com/watch?v=e3SOy7TCD6I
+	
+	* [youtube show](https://www.youtube.com/watch?v=e3SOy7TCD6I)
 
 ## Install
 
