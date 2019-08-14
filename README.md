@@ -41,7 +41,8 @@ of the [www.seenami.com](https://www.seenami.com) web application and executes t
 application embedded in the iframe and returns the results to [www.seenami.com](https://www.seenami.com) web application for further processing.
 
 Emphasis: All of above functions have to be under the [www.seenami.com](https://www.seenami.com) tab, no other tabs on the same browser are affected.
-Files:
+
+##Files:
 
     README
     manifest.json
