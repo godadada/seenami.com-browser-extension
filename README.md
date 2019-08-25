@@ -15,14 +15,14 @@ Browser Extension for [www.seenami.com](https://www.seenami.com)
     npm run dev chrome
     npm run dev firefox
     npm run dev opera
-    npm run dev edge
+    npm run dev edge (todo)
 
 ## Build
 
     npm run build chrome
     npm run build firefox
     npm run build opera
-    npm run build edge
+    npm run build edge (todo)
 
 ## Environment
 
