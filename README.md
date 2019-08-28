@@ -3,7 +3,7 @@
 Browser Extension for [www.seenami.com](https://www.seenami.com), which enables you to:
 
 * Browse and search websites of top search engines, portals, online libraries, archives, databases, 
-journals, museums, etc.
+journals, museums, ecommerce, social networks, etc.
 	
 * Hand pick from large pool of websites which ones are of interest to you and used as sources 
 for you.
