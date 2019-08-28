@@ -6,7 +6,7 @@ Browser Extension for [www.seenami.com](https://www.seenami.com), which enables 
 journals, museums, e-commerce, social networks, etc.
 	
 * Hand pick from large pool of websites which ones are of interest to you and used as sources 
-for you.
+for you to browse and search.
 	
 * If any websites of your interest are not in the pool, recommend them 
 [here](https://github.com/godadada/seenami.com-browser-extension/issues). It usually takes minutes 
