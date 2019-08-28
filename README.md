@@ -9,7 +9,7 @@ journals, museums, etc.
 for you.
 	
 * If any websites of your interest are not in the pool, recommand them 
-[here](https://github.com/godadada/seenami.com-browser-extension/issues).It usually takes minutes 
+[here](https://github.com/godadada/seenami.com-browser-extension/issues). It usually takes minutes 
 to add a website to the pool.
 
 ## youtube
