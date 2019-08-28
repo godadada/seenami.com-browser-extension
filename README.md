@@ -3,12 +3,12 @@
 Browser Extension for [www.seenami.com](https://www.seenami.com), which enables you to:
 
 * Browse and search websites of top search engines, portals, online libraries, archives, databases, 
-journals, museums, ecommerce, social networks, etc.
+journals, museums, e-commerce, social networks, etc.
 	
 * Hand pick from large pool of websites which ones are of interest to you and used as sources 
 for you.
 	
-* If any websites of your interest are not in the pool, recommand them 
+* If any websites of your interest are not in the pool, recommend them 
 [here](https://github.com/godadada/seenami.com-browser-extension/issues). It usually takes minutes 
 to add a website to the pool.
 
