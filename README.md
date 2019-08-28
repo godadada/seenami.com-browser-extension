@@ -1,12 +1,15 @@
 # seenami
 
-Browser Extension for [www.seenami.com](https://www.seenami.com), allow you to:
+Browser Extension for [www.seenami.com](https://www.seenami.com), which enables you to:
 
-	Browse and search websites of top search engines, portals, online libraries, archives, databases, journals, museoms
+	Browse and search websites of top search engines, portals, online libraries, archives, databases, 
+	journals, museoms
 	
-	Hand pick from large pool of websites which ones are of interest to you and used as sources for you
+	Hand pick from large pool of websites which ones are of interest to you and used as sources 
+	for you
 	
-	If websites of your interest are not in the pool, recommand [here](https://github.com/godadada/seenami.com-browser-extension/issues). It often takes minutes to add a website to the pool.
+	If websites of your interest are not in the pool, recommand [here](https://github.com/godadada/seenami.com-browser-extension/issues).
+	It often takes minutes to add a website to the pool.
 
 ## youtube
 	
